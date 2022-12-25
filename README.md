@@ -1,5 +1,5 @@
+<img src="cover.png" alt="Screenshot">
 
-# Laptop Price Predictor
 
 # Idea - 
 
