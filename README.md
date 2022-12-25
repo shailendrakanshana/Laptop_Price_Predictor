@@ -22,6 +22,13 @@ is working as backend to predict the price of laptop.
 
 # Demo prediction of a laptop
 
-<img src="laptop.png" alt="Italian Trulli">
+<img src="laptop.png" alt="Laptop pic">
 
 ## step - 1 fill all required details
+
+<img src="ss1.png" alt="Screenshot">
+<img src="ss2.png" alt="Screenshot">
+
+## Click on predict button and get the result
+
+<img src="ss3.png" alt="Screenshot">
